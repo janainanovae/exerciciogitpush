@@ -1,2 +1,6 @@
 # exerciciogitpush
+
 alterar o readme
+
+
+
